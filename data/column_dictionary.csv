@@ -1,0 +1,23 @@
+column_name,definition,dataset_used_in
+pl_name,Name of the planet,"Exoplanet, KOI, Solar"
+hostname,Name of the host star/system,Exoplanet
+disc_year,Year the planet was discovered,Exoplanet
+discoverymethod,Method used to detect the planet,Exoplanet
+pl_orbper,Orbital period in Earth days,"Exoplanet, KOI, Solar"
+pl_orbsmax,Semi-major axis (orbital distance) in AU,"Exoplanet, Solar"
+pl_orbeccen,"Orbital eccentricity (0=circle, closer to 1=elongated)","Exoplanet, KOI, Solar"
+pl_rade,Planetary radius in Earth radii,"Exoplanet, KOI, Solar"
+pl_bmasse,Planetary mass in Earth masses,"Exoplanet, Solar"
+pl_eqt,Estimated equilibrium temperature (Kelvin),"Exoplanet, KOI, Solar"
+pl_insol,Stellar insolation flux (relative to Earth),KOI
+st_teff,Star’s effective temperature (Kelvin),"Exoplanet, KOI, Solar"
+st_rad,Star’s radius in Solar radii,"Exoplanet, KOI, Solar"
+st_mass,Star’s mass in Solar masses,"Exoplanet, KOI, Solar"
+st_met,Stellar metallicity (relative iron content),"Exoplanet, Solar"
+st_logg,Surface gravity of the star (log10 cm/s²),KOI
+sy_dist,Distance from Earth to the planetary system (parsecs),Exoplanet
+sy_vmag,Apparent brightness in visible light (magnitude),"Exoplanet, KOI"
+ra,Right Ascension (sky coordinate),"Exoplanet, KOI"
+dec,Declination (sky coordinate),"Exoplanet, KOI"
+confirmation_status,KOI planet status: CONFIRMED or CANDIDATE,KOI
+origin,"Origin label for the dataset (Exoplanet, KOI, Solar System)",All
