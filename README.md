@@ -31,6 +31,6 @@ The final **interactive Tableau dashboard** enables users to explore planetary c
 ETL Design · Data Cleaning · Feature Engineering · Data Visualization · Statistical Analysis · Storytelling with Data  
 
 ##  Dashboard & Repository
-- **Tableau Dashboard:** *([](https://public.tableau.com/app/profile/luis.leon6624/viz/Exoplanets_17534023712400/Dashboard1))*  
+- **Tableau Dashboard:** *([link](https://public.tableau.com/app/profile/luis.leon6624/viz/Exoplanets_17534023712400/Dashboard1))*  
 - **Dataset Source:** [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)  
 - **GitHub Repository:** *(This repo)*  
